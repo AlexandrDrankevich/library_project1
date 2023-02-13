@@ -10,9 +10,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 public class PersonDAO {
 
